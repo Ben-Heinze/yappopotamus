@@ -23,6 +23,8 @@
             emacs
             pkgs.python3
             pkgs.R
+            pkgs.just
+            pkgs.xdg-utils
           ];
         };
       }

@@ -1,0 +1,63 @@
+#+TITLE: Text Formatting
+#+OPTIONS: toc:nil num:nil
+
+* Inline Markup
+
+Surround text with the marker character on both sides, with no space between
+the marker and the text.
+
+- *bold* — surrounded by =*asterisks*=
+- /italic/ — surrounded by =/slashes/=
+- =inline code= — surrounded by ==equals signs==
+- ~verbatim~ — surrounded by =~tildes~= (not processed further by org)
+- +strikethrough+ — surrounded by =+plus signs+=
+- _underline_ — surrounded by =_underscores_=
+
+* Block Quote
+
+#+begin_quote
+Use a block quote for emphasis, attribution, or to highlight an important
+passage from a source.
+#+end_quote
+
+* Horizontal Rule
+
+Five or more dashes on their own line become a horizontal rule:
+
+-----
+
+* Unordered List
+
+- First item
+- Second item
+  - Nested item (two spaces of indentation)
+  - Another nested item
+- Third item
+
+* Ordered List
+
+1. First item
+2. Second item
+   1. Nested under second (two spaces)
+3. Third item
+
+* Definition List
+
+- Algorithm :: a finite sequence of well-defined instructions
+- Complexity :: a measure of resources required to run an algorithm
+- Recursion :: a function that calls itself with a simpler input
+
+* Showing Code or Commands Inline
+
+Use ==equals signs== for inline code: run =emacs --batch -l publish.el=.
+
+Use =~tildes~= for verbatim text that should not be interpreted by org at all: ~[[not a link]]~.
+
+* Callout / Note Block
+
+Org does not have a native "note" block, but you can use a =#+begin_quote=
+or a custom =#+begin_src= block styled with CSS. A simple workaround:
+
+#+begin_quote
+*Note:* This is styled as a block quote and works well as a callout.
+#+end_quote

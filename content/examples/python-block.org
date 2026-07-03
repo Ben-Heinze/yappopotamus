@@ -1,0 +1,35 @@
+#+TITLE: Python Code Block
+#+OPTIONS: toc:nil num:nil
+
+* Python Code Block
+
+The most common pattern: print output to stdout and capture it with ~:results output~.
+
+#+NAME: python-example
+#+begin_src python :results output
+data = [("Alice", 95), ("Bob", 82), ("Carol", 91), ("Dave", 78)]
+
+print(f"{'Name':<8}  {'Score':>5}  {'Grade'}")
+print("-" * 24)
+for name, score in data:
+    grade = "A" if score >= 90 else "B" if score >= 80 else "C"
+    print(f"{name:<8}  {score:>5}  {grade}")
+
+avg = sum(s for _, s in data) / len(data)
+print(f"\nClass average: {avg:.1f}")
+#+end_src
+
+** Header argument reference
+
+Add these after the language name on the =#+begin_src= line:
+
+| Argument          | Effect                                        |
+|-------------------+-----------------------------------------------|
+| ~:results output~ | Capture printed output (stdout)               |
+| ~:results value~  | Capture the return value of the last expression |
+| ~:results silent~ | Run but don't insert results into the page    |
+| ~:exports code~   | Show only the code (default)                  |
+| ~:exports results~| Show only the output                          |
+| ~:exports both~   | Show both code and output                     |
+| ~:exports none~   | Show neither (useful for setup/helper blocks) |
+| ~:eval never~     | Show the block but never execute it           |

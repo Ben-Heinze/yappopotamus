@@ -1,0 +1,30 @@
+#+TITLE: Examples
+#+OPTIONS: toc:2 num:nil
+
+A copy-paste reference for common things you will want to add to this wiki.
+Each section is a self-contained snippet file — you can also link directly
+to any of them from other pages.
+
+* Python Code Block
+
+#+INCLUDE: "python-block.org" :minlevel 2
+
+* R Code Block
+
+#+INCLUDE: "r-block.org" :minlevel 2
+
+* Tables
+
+#+INCLUDE: "tables.org" :minlevel 2
+
+* Links and Files
+
+#+INCLUDE: "links-and-files.org" :minlevel 2
+
+* Text Formatting
+
+#+INCLUDE: "text-formatting.org" :minlevel 2
+
+* Named Blocks and Reuse
+
+#+INCLUDE: "named-blocks.org" :minlevel 2

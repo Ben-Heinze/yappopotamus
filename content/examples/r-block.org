@@ -1,0 +1,34 @@
+#+TITLE: R Code Block
+#+OPTIONS: toc:nil num:nil
+
+* R Code Block
+
+Basic summary statistics — a common starting point for any dataset.
+
+#+NAME: r-example
+#+begin_src R :results output
+x <- c(4, 7, 13, 2, 1, 9, 6, 3, 11, 5)
+
+cat("Data:   ", x, "\n")
+cat("Mean:   ", mean(x), "\n")
+cat("Median: ", median(x), "\n")
+cat("SD:     ", round(sd(x), 3), "\n")
+cat("Min:    ", min(x), "\n")
+cat("Max:    ", max(x), "\n")
+#+end_src
+
+** Producing a plot
+
+R plots can be saved to a file and embedded as an image. Place the output
+path inside =content/= so org-publish copies it to =public/= automatically.
+
+#+begin_example
+,#+begin_src R :results graphics file :file "images/my-plot.png"
+x <- 1:20
+plot(x, x^2, type = "l", col = "steelblue",
+     main = "y = x²", xlab = "x", ylab = "y")
+,#+end_src
+#+end_example
+
+The ~:results graphics file~ and ~:file~ arguments tell Babel to write a
+PNG and embed it as an image in the exported HTML.

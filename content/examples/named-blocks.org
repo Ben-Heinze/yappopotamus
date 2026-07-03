@@ -1,0 +1,47 @@
+#+TITLE: Named Blocks and Reuse
+#+OPTIONS: toc:nil num:nil
+
+* Naming a Block with #+NAME
+
+Give any block a name and it becomes reusable. The name goes on the line
+directly above the block.
+
+#+NAME: compute-stats
+#+begin_src python :var nums='[2,4,6,8,10]' :results output
+total = sum(nums)
+mean  = total / len(nums)
+print(f"Sum:  {total}")
+print(f"Mean: {mean:.2f}")
+print(f"Min:  {min(nums)}")
+print(f"Max:  {max(nums)}")
+#+end_src
+
+* Calling a Named Block with #+CALL
+
+~#+CALL:~ re-runs a named block, optionally with different arguments.
+The result is inserted inline at the call site.
+
+Run with different data:
+
+#+CALL: compute-stats(nums=[1,3,5,7,9,11])
+
+* Using #+NAME on a Table
+
+You can also name a table and pass it as data into a code block.
+
+#+NAME: sample-data
+| x |  y |
+|---+----|
+| 1 |  2 |
+| 2 |  5 |
+| 3 | 10 |
+| 4 | 17 |
+| 5 | 26 |
+
+#+begin_src python :var tbl=sample-data :results output
+xs = [row[0] for row in tbl]
+ys = [row[1] for row in tbl]
+print("x values:", xs)
+print("y values:", ys)
+print("Sum of y:", sum(ys))
+#+end_src

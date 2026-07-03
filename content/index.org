@@ -21,7 +21,7 @@ Each subject folder contains small =.org= files — one concept per file. The fo
 #+begin_example
 * Recursion
 
-#+INCLUDE: "fibonacci.org" :minlevel 2
+,#+INCLUDE: "fibonacci.org" :minlevel 2
 #+end_example
 
 The =:minlevel 2= makes the snippet's top-level heading nest one level

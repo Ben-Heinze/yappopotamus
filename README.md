@@ -108,9 +108,17 @@ yappopotamus/
 │   │   └── index.org          AI tab
 │   ├── linear-algebra/
 │   │   └── index.org          Linear Algebra tab
-│   └── statistics/
-│       ├── index.org          Statistics tab — includes snippets below
-│       └── linear-regression.org  Snippet: linear regression in R
+│   ├── statistics/
+│   │   ├── index.org          Statistics tab — includes snippets below
+│   │   └── linear-regression.org  Snippet: linear regression in R
+│   └── examples/
+│       ├── index.org          Examples tab — includes all snippets below
+│       ├── python-block.org   Python code block reference
+│       ├── r-block.org        R code block reference
+│       ├── tables.org         Manual and generated tables
+│       ├── links-and-files.org  PDF, image, and page links
+│       ├── text-formatting.org  Inline markup, lists, block quotes
+│       └── named-blocks.org   #+NAME and #+CALL reuse patterns
 │
 ├── static/
 │   └── style.css              Global stylesheet (copied to public/)
@@ -195,6 +203,14 @@ This text will appear as a block quote.
 this is shown as-is, no syntax highlighting
 #+end_example
 ```
+
+> **Gotcha — `#+` keywords inside example blocks:** Org's preprocessor runs before it fully parses block boundaries, so a line like `#+INCLUDE:` inside a `#+begin_example` will still be executed rather than shown literally. To display a `#+` keyword as plain text inside an example block, prefix it with a comma:
+> ```org
+> #+begin_example
+> ,#+INCLUDE: "fibonacci.org" :minlevel 2
+> #+end_example
+> ```
+> The comma is stripped from the output — readers see `#+INCLUDE:` — but the preprocessor skips it. The same rule applies to `#+begin_src`, `#+RESULTS:`, and any other `#+` keyword you want to show as an example rather than execute.
 
 **Tables** — Org auto-aligns them when you press `TAB` inside the table in Emacs.
 

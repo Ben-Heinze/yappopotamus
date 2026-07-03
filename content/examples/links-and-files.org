@@ -1,0 +1,71 @@
+#+TITLE: Links and Files
+#+OPTIONS: toc:nil num:nil
+
+* Links to Other Wiki Pages
+
+Use =file:= links with a path relative to the current file.
+org-publish automatically converts =.org= extensions to =.html= in the output.
+
+#+begin_example
+[[file:../algorithms/index.org][Algorithms]]
+[[file:../statistics/index.org][Statistics]]
+[[file:fibonacci.org][Fibonacci snippet]]
+#+end_example
+
+* Links to PDFs
+
+Place the PDF inside =content/= (or a subfolder) so org-publish copies it
+to =public/= alongside your HTML files. Then link with a relative path:
+
+#+begin_example
+[[file:pdfs/lecture-notes.pdf][Lecture Notes]]
+[[file:../shared/textbook.pdf][Textbook Chapter 3]]
+#+end_example
+
+* Embedding Images
+
+A link with *no description text* is rendered as an inline =<img>= tag.
+Place images inside =content/= so they are copied to =public/= on build.
+
+#+begin_example
+[[file:images/diagram.png]]
+#+end_example
+
+Add a caption with ~#+CAPTION:~ on the line directly above:
+
+#+begin_example
+,#+CAPTION: Figure 1 — System architecture
+[[file:images/diagram.png]]
+#+end_example
+
+A link *with* description text becomes a regular clickable link instead
+of an inline image:
+
+#+begin_example
+[[file:images/diagram.png][View diagram]]
+#+end_example
+
+* External URLs
+
+#+begin_example
+[[https://orgmode.org][Org Mode documentation]]
+[[https://cran.r-project.org][CRAN]]
+#+end_example
+
+* Linking to a Specific Heading on Another Page
+
+You can deep-link to a named heading by adding a =CUSTOM_ID= property
+to the target heading, then referencing it with =#id= in the link:
+
+Target file:
+#+begin_example
+,** Fibonacci
+:PROPERTIES:
+:CUSTOM_ID: fibonacci
+:END:
+#+end_example
+
+Link from anywhere:
+#+begin_example
+[[file:../algorithms/index.org::#fibonacci][Fibonacci section]]
+#+end_example

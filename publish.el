@@ -27,6 +27,7 @@
     <a href=\"/ai/index.html\">AI</a>
     <a href=\"/linear-algebra/index.html\">Linear Algebra</a>
     <a href=\"/statistics/index.html\">Statistics</a>
+    <a href=\"/examples/index.html\">Examples</a>
   </nav>
 </header>
 <script>
