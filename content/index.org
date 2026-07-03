@@ -1,0 +1,31 @@
+#+TITLE: yappopotamus
+#+OPTIONS: toc:nil num:nil
+
+* Welcome
+
+This is my personal wiki — a collection of notes and examples from school and beyond.
+
+Use the tabs above to browse by subject. Each tab is a folder of small, self-contained snippets that are stitched together into a single page.
+
+| Section       | Contents                              |
+|---------------+---------------------------------------|
+| [[/algorithms/index.html][Algorithms]]    | Recursion, sorting, search            |
+| [[/ai/index.html][AI]]            | Machine learning, neural networks     |
+| [[/linear-algebra/index.html][Linear Algebra]] | Vectors, matrices, decompositions    |
+| [[/statistics/index.html][Statistics]]    | Regression, distributions, inference  |
+
+* How snippets work
+
+Each subject folder contains small =.org= files — one concept per file. The folder's =index.org= pulls them together with =#+INCLUDE=:
+
+#+begin_example
+* Recursion
+
+#+INCLUDE: "fibonacci.org" :minlevel 2
+#+end_example
+
+The =:minlevel 2= makes the snippet's top-level heading nest one level
+deeper, so it appears as a subsection of the including page.
+
+A snippet can be included in multiple pages — edit it once, and every
+page that includes it updates on the next build.

@@ -1,0 +1,17 @@
+#+TITLE: Recursive Fibonacci
+#+OPTIONS: toc:nil num:nil
+
+* Recursive Fibonacci
+
+The classic recursive definition. Each call branches into two, giving O(2^n) time — fine for illustration, not for large =n=.
+
+#+NAME: fibonacci
+#+begin_src python :results output
+def fib(n):
+    if n <= 1:
+        return n
+    return fib(n - 1) + fib(n - 2)
+
+for i in range(12):
+    print(f"F({i:2d}) = {fib(i)}")
+#+end_src
