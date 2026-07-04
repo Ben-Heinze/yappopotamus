@@ -4,7 +4,8 @@ run:
         kill "$(cat .server.pid)"
     fi
     emacs --batch -l publish.el --eval "(org-publish-all t)"
-    python3 -m http.server 8080 --directory public/ &
+    cp static/style.css public/style.css
+    python3 serve.py &
     echo $! > .server.pid
     SERVER_PID=$!
     sleep 0.5

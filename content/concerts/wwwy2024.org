@@ -1,0 +1,108 @@
+#+TITLE: When We Were Young Festival 2024 — Day 2
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2024-10-20
+
+When We Were Young Festival, Day 2, at the Las Vegas Festival Grounds in Las Vegas, NV on October 20, 2024. Four headlining acts each performed a specific album or career-spanning set.
+
+* Pierce The Veil — /Collide with the Sky/
+
+Performed almost entirely from /Collide with the Sky/. Guests: Jason Aalon Butler, Kellin Quinn, and Jenna McDougall.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                                  | Notes                            |
+|----+-------------------------------------------------------+----------------------------------|
+|  1 | Collide with the Sky                                  |                                  |
+|  2 | May These Noises Startle You in Your Sleep Tonight    |                                  |
+|  3 | Hell Above                                            |                                  |
+|  4 | A Match Into Water                                    |                                  |
+|  5 | I'm Low on Gas and You Need a Jacket                  |                                  |
+|  6 | The First Punch                                       |                                  |
+|  7 | Tangled in the Great Escape                           | w/ Jason Aalon Butler            |
+|  8 | Bulls in the Bronx                                    |                                  |
+|  9 | Props & Mayhem                                        | /(partial)/                      |
+| 10 | Stained Glass Eyes and Colorful Tears                 |                                  |
+| 11 | One Hundred Sleepless Nights                          |                                  |
+| 12 | King for a Day                                        | w/ Kellin Quinn                  |
+| 13 | Hold On Till May                                      | w/ Jenna McDougall               |
+
+* Dance Gavin Dance — /Downtown Battle Mountain 1 & 2/
+
+Pure retrospective set alternating tracks from DBM1 (2007) and DBM2 (2011). Several songs hadn't been performed since 2011–2015.
+
+#+ATTR_HTML: :class setlist
+| # | Song                                                             | Album  |
+|---+------------------------------------------------------------------+--------|
+| 1 | The Backwards Pumpkin Song                                       | DBM1   |
+| 2 | Privilously Poncheezied                                          | DBM2   |
+| 3 | It's Safe to Say You Dig the Backseat                            | DBM1   |
+| 4 | Need Money                                                       | DBM2   |
+| 5 | Lemon Meringue Tie                                               | DBM1   |
+| 6 | The Robot With Human Hair Pt. 2 1/2                              | DBM2   |
+| 7 | Turn Off the Lights, I'm Watching Back to the Future             | DBM1   |
+| 8 | Swan Soup                                                        | DBM2   |
+| 9 | Surprise! I'm From Cuba. Everyone Has One Brain                  | DBM1   |
+
+* Fall Out Boy — Career-Spanning Set
+
+Featured a Magic 8-Ball gimmick to randomly select one song mid-set. Travie McCoy of Gym Class Heroes joined for a partial cover of "Cupid's Chokehold" (tour debut).
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                                      | Notes                      |
+|----+-----------------------------------------------------------+----------------------------|
+|  1 | Disloyal Order of Water Buffaloes /(snippet)/             |                            |
+|  2 | Take This to Your Grave                                   |                            |
+|  3 | Chicago Is So Two Years Ago                               |                            |
+|  4 | Grand Theft Autumn/Where Is Your Boy                      |                            |
+|  5 | From Under the Cork Tree                                  |                            |
+|  6 | Sugar, We're Goin Down                                    |                            |
+|  7 | Dance, Dance                                              |                            |
+|  8 | Get Busy Living or Get Busy Dying                         |                            |
+|  9 | Infinity on High                                          |                            |
+| 10 | This Ain't a Scene, It's an Arms Race                     |                            |
+| 11 | Thriller                                                  |                            |
+| 12 | Thnks fr th Mmrs                                          |                            |
+| 13 | Folie à Deux                                              |                            |
+| 14 | Disloyal Order of Water Buffaloes                         |                            |
+| 15 | I Don't Care                                              |                            |
+| 16 | Save Rock and Roll                                        |                            |
+| 17 | The Phoenix                                               |                            |
+| 18 | My Songs Know What You Did in the Dark (Light Em Up)      |                            |
+| 19 | American Beauty/American Psycho                           |                            |
+| 20 | Uma Thurman                                               |                            |
+| 21 | The Kids Aren't Alright                                   |                            |
+| 22 | M A N I A                                                 |                            |
+| 23 | The Last of the Real Ones                                 |                            |
+| 24 | Piano Interlude                                           |                            |
+| 25 | Golden /(partial)/                                        |                            |
+| 26 | So Much (for) Stardust                                    |                            |
+| 27 | Love From the Other Side                                  |                            |
+| 28 | Finale                                                    |                            |
+| 29 | Headfirst Slide Into Cooperstown on a Bad Bet             | Magic 8-Ball pick          |
+| 30 | Cupid's Chokehold /(partial, GCH cover)/                  | w/ Travie McCoy, tour debut|
+| 31 | Centuries                                                 |                            |
+| 32 | Saturday                                                  |                            |
+
+* My Chemical Romance — /The Black Parade/
+
+Performed 13 of /The Black Parade/'s tracks. Violinist Kayleigh Goldsworthy joined for "Cancer" and "Mama." "Famous Last Words" closed with a reprised "Welcome to the Black Parade" outro, bookending the set. "Blood" was played from tape.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                         | Notes                                    |
+|----+------------------------------+------------------------------------------|
+|  1 | The Black Parade /(intro)/   |                                          |
+|  2 | The End.                     |                                          |
+|  3 | Dead!                        |                                          |
+|  4 | This Is How I Disappear      |                                          |
+|  5 | The Sharpest Lives           |                                          |
+|  6 | Welcome to the Black Parade  |                                          |
+|  7 | I Don't Love You             | extended intro                           |
+|  8 | House of Wolves              |                                          |
+|  9 | Cancer                       | w/ Kayleigh Goldsworthy (violin)         |
+| 10 | Mama                         | w/ Kayleigh Goldsworthy, extended intro  |
+| 11 | Sleep                        |                                          |
+| 12 | Teenagers                    |                                          |
+| 13 | Disenchanted                 |                                          |
+| 14 | Famous Last Words            | w/ "Welcome to the Black Parade" reprise |
+| 15 | Blood                        | /(played from tape)/                     |
+| 16 | Na Na Na                     | /(encore)/                               |
+| 17 | Helena                       | /(encore)/                               |

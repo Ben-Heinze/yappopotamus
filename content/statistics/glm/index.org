@@ -11,4 +11,4 @@
 
 * Poisson Regression
 
-#+INCLUDE: "poisson.org" :minlevel 2
+#+INCLUDE: "poisson-regression.org" :minlevel 2

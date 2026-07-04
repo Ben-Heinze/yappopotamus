@@ -1,0 +1,31 @@
+#+TITLE: Sammy Rae & The Friends @ Showbox — If It All Goes South Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2022-11-06
+
+Sammy Rae & The Friends at the Showbox in Seattle, WA on November 6, 2022. Yam Haus opened. Doors at 7 PM, show ran roughly 9:00–10:50 PM.
+
+Notable: "Closer To You" debuted live at this show — its first ever live performance.
+
+* Yam Haus
+
+Opened. Setlist not documented here.
+
+* Sammy Rae & The Friends
+
+#+ATTR_HTML: :class setlist
+| #  | Song                              | Notes                       |
+|----+-----------------------------------+-----------------------------|
+|  1 | Follow Me Like the Moon           |                             |
+|  2 | Talk It Up                        |                             |
+|  3 | Whatever We Feel                  |                             |
+|  4 | Denim Jacket                      |                             |
+|  5 | Jackie Onassis                    |                             |
+|  6 | If It All Goes South              |                             |
+|  7 | Friend Theme / Living Room Floor  |                             |
+|  8 | For the Time Being                |                             |
+|  9 | Good Life                         |                             |
+| 10 | Flesh & Bone                      |                             |
+| 11 | 25 or 6 to 4                      | Chicago cover               |
+| 12 | Let's Throw a Party!              |                             |
+| 13 | Closer To You                     | /(encore — live debut)/     |
+| 14 | Kick It To Me                     | /(encore)/                  |

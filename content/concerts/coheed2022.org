@@ -1,0 +1,40 @@
+#+TITLE: Coheed and Cambria @ The Lot at The Complex — Window of the Waking Mind Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2022-08-10
+
+Coheed and Cambria (with Alkaline Trio opening) at The Lot at The Complex in Salt Lake City, UT on August 10, 2022. Part of the /A Window of the Waking Mind/ Tour. The show ran nearly two hours.
+
+
+Before the show we hit up Dave & Busters, where a little kid watched us play Guitar Hero and told us we were good. 
+
+The original plan was to see Dance Gavin Dance — but Tilian did some bad things and DGD got pulled from the tour entirely, but Mothica was still playing and I wanted to see her since she just released Buzzkill. We drove out, got in line, and only then found out Mothica wasn't going to be there either. 
+
+Then the rain came. The Lot is an outdoor parking lot and it rained the show out. We waited in the merch line for like an hour, decided to bail to a nearby sports bar. I got a burger where both buns were grilled cheeses. Basically saw no one play.
+
+* Alkaline Trio
+
+Opened at 6:30 PM. Setlist not documented here.
+
+* Coheed and Cambria
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                            |
+|----+-------------------------------------------------|
+|  1 | Prologue                                        |
+|  2 | The Dark Sentencer                              |
+|  3 | The Gutter                                      |
+|  4 | The Embers of Fire                              |
+|  5 | Beautiful Losers                                |
+|  6 | Shoulders                                       |
+|  7 | The Running Free                                |
+|  8 | A Disappearing Act                              |
+|  9 | In Keeping Secrets of Silent Earth: 3           |
+| 10 | Ghost                                           |
+| 11 | Blood                                           |
+| 12 | The Liars Club                                  |
+| 13 | Everything Evil                                 |
+| 14 | Blood Red Summer                                |
+| 15 | A Favor House Atlantic                          |
+| 16 | Window of the Waking Mind                       |
+| 17 | The Suffering /(encore)/                        |
+| 18 | Welcome Home /(encore)/                         |

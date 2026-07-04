@@ -1,0 +1,35 @@
+#+TITLE: Men I Trust @ KettleHouse Amphitheater — Space Walk Tour 2022
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2022-07-12
+
+Men I Trust opened for Khruangbin at KettleHouse Amphitheater in Bonner, MT (just east of Missoula) on July 12, 2022 — part of Khruangbin's Space Walk Tour 2022.
+
+* Men I Trust
+
+No specific setlist was documented for this date. The list below reflects their typical 2022 summer tour set.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                          |
+|----+-------------------------------|
+|  1 | Norton Commander (All We Need)|
+|  2 | Sugar                         |
+|  3 | Tailwhip                      |
+|  4 | Oh Dove                       |
+|  5 | Serenade of Water             |
+|  6 | Days Go By                    |
+|  7 | Break for Lovers              |
+|  8 | Always Lone                   |
+|  9 | Porcelain                     |
+| 10 | All Night                     |
+| 11 | You Deserve This              |
+| 12 | Humming Man                   |
+| 13 | Lauren                        |
+| 14 | Seven                         |
+| 15 | Billie Toppy                  |
+| 16 | Show Me How                   |
+| 17 | Fiero GT /(encore)/           |
+| 18 | Say, Can You Hear /(encore)/  |
+
+* Khruangbin
+
+Headliner. Setlist not documented here.

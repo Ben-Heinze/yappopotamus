@@ -1,0 +1,23 @@
+#+TITLE: Wage War + Beartooth @ ZooMontana — The Below Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2021-08-24
+
+Wage War and Beartooth at ZooMontana in Billings, MT on August 24, 2021. Part of The Below Tour with Wage War headlining and Beartooth in support. Dragged Under was supposed to be here too, but we found out they weren't coming once we got to the concert.
+
+* Beartooth
+
+#+ATTR_HTML: :class setlist
+| # | Song              |
+|---+-------------------|
+| 1 | Devastation       |
+| 2 | Sick of Me        |
+| 3 | Dominate          |
+| 4 | Body Bag          |
+| 5 | Bad Listener      |
+| 6 | In Between        |
+| 7 | The Past Is Dead  |
+| 8 | The Last Riff     |
+
+* Wage War
+
+Setlist not submitted by attendees.

@@ -1,0 +1,31 @@
+#+TITLE: Hippo Campus @ The ELM — Wasteland EP Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2023-05-11
+
+Hippo Campus at The ELM in Bozeman, MT on May 11, 2023. Touring behind the /Wasteland/ EP.
+
+* Hippo Campus
+
+#+ATTR_HTML: :class setlist
+| #  | Song               |
+|----+--------------------|
+|  1 | South              |
+|  2 | Yippie Ki Yay      |
+|  3 | Bad Dream Baby     |
+|  4 | Ride or Die        |
+|  5 | Kick in the Teeth  |
+|  6 | Sex Tape           |
+|  7 | Vines              |
+|  8 | Baseball           |
+|  9 | Warm Glow          |
+| 10 | Probably           |
+| 11 | Moonshine          |
+| 12 | Bang Bang          |
+| 13 | Way It Goes        |
+| 14 | Where to Now?      |
+| 15 | Suicide Saturday   |
+| 16 | Poems              |
+| 17 | Understand         |
+| 18 | Bambi              |
+| 19 | Boys               |
+| 20 | Buttercup          | /(encore)/ |

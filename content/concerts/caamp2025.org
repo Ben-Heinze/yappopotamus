@@ -1,0 +1,38 @@
+#+TITLE: Caamp @ Big Sky Brewing Company Amphitheater
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2025-07-29
+
+Caamp at Big Sky Brewing Company Amphitheater in Missoula, MT on July 29, 2025. Support from Futurebirds. Show at 7:30 PM.
+
+Two covers in the set: "I'm Gonna Be (500 Miles)" by The Proclaimers and "Walking on a Dream" by Empire of the Sun. Note: setlist.fm flags the order as incomplete and potentially out of sequence.
+
+* Futurebirds
+
+Opened. Setlist not documented here.
+
+* Caamp
+
+#+ATTR_HTML: :class setlist
+| #  | Song                              | Notes                          |
+|----+-----------------------------------+--------------------------------|
+|  1 | Vagabond                          |                                |
+|  2 | Let Things Go                     |                                |
+|  3 | Books                             |                                |
+|  4 | I Keep Going                      |                                |
+|  5 | Lavender Girl                     |                                |
+|  6 | Snowshoes                         |                                |
+|  7 | There She Goes                    |                                |
+|  8 | 26                                |                                |
+|  9 | No Sleep                          |                                |
+| 10 | Peach Fuzz                        |                                |
+| 11 | I'm Gonna Be (500 Miles)          | The Proclaimers cover          |
+| 12 | Mistakes                          |                                |
+| 13 | See the World                     |                                |
+| 14 | Found (Forever)                   |                                |
+| 15 | Wolf Song                         |                                |
+| 16 | Walking on a Dream                | Empire of the Sun cover        |
+| 17 | Going to the Country              |                                |
+| 18 | Porchswing                        |                                |
+| 19 | By and By                         | /(encore)/                     |
+| 20 | Strawberries                      | /(encore)/                     |
+| 21 | All the Debts I Owe               | /(encore)/                     |

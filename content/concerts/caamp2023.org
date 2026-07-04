@@ -1,0 +1,40 @@
+#+TITLE: Caamp @ Big Sky Events Arena
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2023-07-11
+
+Caamp at Big Sky Events Arena in Big Sky Town Center, MT on July 11, 2023. Support from The Last Revel and Abby Webster. Crowd of roughly 4,150. A local review singled out "26" as a highlight, with the crowd waving hands in unison.
+
+No setlist was submitted to any public database for this specific date. The list below is from their Under the Big Sky Festival set in Whitefish three days later (July 14), which is the closest documented reference point.
+
+* The Last Revel
+
+Opened. Setlist not documented here.
+
+* Abby Webster
+
+Opened. Setlist not documented here.
+
+* Caamp
+
+/(Approximate — based on Under the Big Sky setlist, July 14, 2023)/
+
+#+ATTR_HTML: :class setlist
+| #  | Song                    |
+|----+-------------------------|
+|  1 | Huckleberry Love        |
+|  2 | No Sleep                |
+|  3 | Just Wonderin           |
+|  4 | Believe                 |
+|  5 | Great Heights           |
+|  6 | 26                      |
+|  7 | All My Lonesome         |
+|  8 | Come With Me Now        |
+|  9 | Lavender Girl           |
+| 10 | Vagabond                |
+| 11 | Books                   |
+| 12 | I Keep Going            |
+| 13 | Hey Joe                 |
+| 14 | Common Man              |
+| 15 | Mockingbird Song        |
+| 16 | Peach Fuzz /(encore)/   |
+| 17 | Going to the Country /(encore)/ |

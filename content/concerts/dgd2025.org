@@ -1,0 +1,71 @@
+#+TITLE: Dance Gavin Dance @ Hard Rock Live — Return of the Robot Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2025-06-27
+
+Dance Gavin Dance headlined the Return of the Robot Tour at Hard Rock Live in Wheatland, CA on June 27, 2025. Support from Dwellings, Belmont, and The Home Team. Doors at 6:00 PM, DGD hit the stage at 9:35 PM.
+
+* Dwellings
+
+No setlist documented for this specific date. The list below is approximated from the Denver show four days earlier (June 23) on the same tour.
+
+#+ATTR_HTML: :class setlist
+| # | Song                  |
+|---+-----------------------|
+| 1 | Pick Up Before You Go |
+| 2 | IDGAF2                |
+| 3 | Happens All The Time  |
+| 4 | Lemonade              |
+| 5 | Devices               |
+| 6 | Gold Leaf             |
+
+* Belmont
+
+Consistent setlist every night on this tour.
+
+#+ATTR_HTML: :class setlist
+| # | Song             |
+|---+------------------|
+| 1 | Liminal          |
+| 2 | Hollowed Out     |
+| 3 | Pushing Daisies  |
+| 4 | In the Sky       |
+| 5 | Bowser's Castle  |
+| 6 | Overstepping     |
+
+* The Home Team
+
+#+ATTR_HTML: :class setlist
+| #  | Song                           |
+|----+--------------------------------|
+|  1 | Slow Bloom                     |
+|  2 | Brag                           |
+|  3 | Right Through Me               |
+|  4 | Worthy                         |
+|  5 | Overtime                       |
+|  6 | Somebody Else's Face           |
+|  7 | Walk This World With Me        |
+|  8 | Hell                           |
+|  9 | Move It or Lose It             |
+| 10 | Watching All Your Friends Get Rich |
+| 11 | Loud                           |
+
+* Dance Gavin Dance
+
+Isaac from Dwellings joined for "Uneasy Hearts Weigh the Most" in the encore.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                              | Notes                    |
+|----+---------------------------------------------------+--------------------------|
+|  1 | Speed Demon                                       |                          |
+|  2 | War Machine                                       |                          |
+|  3 | The Robot With Human Hair Pt. 2 1/2               |                          |
+|  4 | Midnight at McGuffy's                             |                          |
+|  5 | Need Money                                        |                          |
+|  6 | Straight From the Heart                           |                          |
+|  7 | Blue Dream                                        |                          |
+|  8 | The Backwards Pumpkin Song                        |                          |
+|  9 | The Robot With Human Hair Pt. 3                   |                          |
+| 10 | Burning Down the Nicotine Armoire                 |                          |
+| 11 | All the Way Down                                  | /(encore)/               |
+| 12 | Uneasy Hearts Weigh the Most                      | /(encore, w/ Isaac)/     |
+| 13 | The Ghost of Billy Royalton                       | /(encore)/               |

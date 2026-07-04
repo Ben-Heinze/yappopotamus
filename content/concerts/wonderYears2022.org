@@ -1,0 +1,80 @@
+#+TITLE: The Wonder Years @ Crystal Ballroom — Upsides & Suburbia Anniversary Tour
+#+OPTIONS: toc:nil num:nil
+#+DATE: 2022-02-05
+
+The Wonder Years, Spanish Love Songs, Origami Angel, and Save Face at McMenamins Crystal Ballroom in Portland, OR on February 5, 2022. The Wonder Years played both /The Upsides/ (2010) and /Suburbia I've Given You All and Now I'm Nothing/ (2011) in full to celebrate their tenth and eleventh anniversaries — several songs hadn't been performed since 2015.
+
+* Save Face
+
+Setlist not documented.
+
+* Origami Angel
+
+No Portland-specific setlist documented; setlist below is the consistent tour set, with two songs confirmed via fan-uploaded video from this show.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                            |
+|----+-------------------------------------------------|
+|  1 | 24 Hr Drive-Thru                                |
+|  2 | Neutrogena Spektor                              |
+|  3 | Bossa Nova Corps                                |
+|  4 | #GAMIGANG                                       |
+|  5 | Self-Destruct /(confirmed via fan video)/       |
+|  6 | Doctor Whomst                                   |
+|  7 | Noah Fence                                      |
+|  8 | Escape Rope                                     |
+|  9 | The Title Track /(confirmed via fan video)/     |
+| 10 | XD Gale of Darkness                             |
+
+* Spanish Love Songs
+
+Setlist below is from the Seattle show the following night (Feb 6) — tour setlist was consistent.
+
+#+ATTR_HTML: :class setlist
+| # | Song                                                |
+|---+-----------------------------------------------------|
+| 1 | Routine Pain                                        |
+| 2 | Self-Destruction (As a Sensible Career Choice)      |
+| 3 | Bellyache                                           |
+| 4 | Optimism (As a Radical Life Choice)                 |
+| 5 | Kick                                                |
+| 6 | Beach Front Property                                |
+| 7 | Losers 2                                            |
+| 8 | Losers                                              |
+| 9 | Brave Faces, Everyone                               |
+
+* The Wonder Years
+
+Played both albums in full. Set 1: /Suburbia I've Given You All and Now I'm Nothing/. Set 2: /The Upsides/.
+
+#+ATTR_HTML: :class setlist
+| #  | Song                                        | Album                                        |
+|----+---------------------------------------------+----------------------------------------------|
+|  1 | Came Out Swinging                           | /Suburbia I've Given You All.../             |
+|  2 | Woke Up Older                               | /Suburbia/                                   |
+|  3 | Local Man Ruins Everything                  | /Suburbia/                                   |
+|  4 | Suburbia                                    | /Suburbia/                                   |
+|  5 | My Life as a Pigeon                         | /Suburbia/                                   |
+|  6 | Summers in PA                               | /Suburbia/                                   |
+|  7 | I Won't Say the Lord's Prayer               | /Suburbia/                                   |
+|  8 | Coffee Eyes                                 | /Suburbia/                                   |
+|  9 | I've Given You All                          | /Suburbia/                                   |
+| 10 | Don't Let Me Cave In                        | /Suburbia/                                   |
+| 11 | You Made Me Want to Be a Saint              | /Suburbia/                                   |
+| 12 | Hoodie Weather                              | /Suburbia/                                   |
+| 13 | And Now I'm Nothing                         | /Suburbia/                                   |
+| 14 | My Last Semester                            | /The Upsides/                                |
+| 15 | Logan Circle                                | /The Upsides/                                |
+| 16 | Everything I Own Fits in This Backpack      | /The Upsides/                                |
+| 17 | Dynamite Shovel                             | /The Upsides/                                |
+| 18 | New Years With Carl Weathers                | /The Upsides/                                |
+| 19 | It's Never Sunny in South Philadelphia      | /The Upsides/                                |
+| 20 | Hostels & Brothels                          | /The Upsides/                                |
+| 21 | Melrose Diner                               | /The Upsides/                                |
+| 22 | This Party Sucks                            | /The Upsides/                                |
+| 23 | Hey Thanks                                  | /The Upsides/                                |
+| 24 | Washington Square Park                      | /The Upsides/                                |
+| 25 | All My Friends Are in Bar Bands             | /The Upsides/                                |
+| 26 | Out on My Feet                              | /(encore)/                                   |
+| 27 | Leavenhouse. 11:30.                         | /(encore)/                                   |
+| 28 | Living Room Song                            | /(encore)/                                   |

@@ -14,7 +14,7 @@
 (setq org-confirm-babel-evaluate nil)
 
 (defvar wiki-html-head
-  "<link rel=\"stylesheet\" href=\"/style.css\" />
+  "<link rel=\"stylesheet\" href=\"/style.css?v=6\" />
 <script>
 MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\]']] } };
 </script>
@@ -23,42 +23,41 @@ MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\
 ;; Tabs are root-relative so they resolve correctly from any subdirectory.
 ;; The inline script adds an .active class to whichever tab matches the URL.
 (defvar wiki-preamble
-  "<header>
-  <a class=\"site-title\" href=\"/index.html\">yappopotamus</a>
-  <nav>
-    <a href=\"/index.html\">Home</a>
-    <div class=\"dropdown\">
-      <a href=\"/algorithms/index.html\">Algorithms ▾</a>
-      <div class=\"dropdown-menu\">
-        <a href=\"/algorithms/spanning-trees/index.html\">Spanning Trees</a>
-        <a href=\"/algorithms/divide-and-conquer/index.html\">Divide &amp; Conquer</a>
-        <a href=\"/algorithms/dynamic-programming/index.html\">Dynamic Programming</a>
-        <a href=\"/algorithms/greedy-scheduling/index.html\">Greedy Scheduling</a>
-        <a href=\"/algorithms/linear-programming/index.html\">Linear Programming</a>
-        <a href=\"/algorithms/simplex-algorithm/index.html\">Simplex Algorithm</a>
-        <a href=\"/algorithms/integer-linear-programming/index.html\">Integer LP</a>
-        <a href=\"/algorithms/flow-networks/index.html\">Flow Networks</a>
-        <a href=\"/algorithms/randomized-algorithms/index.html\">Randomized Algorithms</a>
-        <a href=\"/algorithms/approximation-algorithms/index.html\">Approximation Algorithms</a>
-      </div>
+  "<a class=\"site-title\" href=\"/index.html\">yappopotamus</a>
+<nav>
+  <a href=\"/index.html\">Home</a>
+  <div class=\"nav-group\">
+    <a href=\"/ai/index.html\">AI</a>
+    <div class=\"nav-sub\">
+      <a href=\"/ai/bayesian-networks/index.html\">Bayesian Networks</a>
+      <a href=\"/ai/cnns/index.html\">CNNs</a>
     </div>
-    <div class=\"dropdown\">
-      <a href=\"/ai/index.html\">AI ▾</a>
-      <div class=\"dropdown-menu\">
-        <a href=\"/ai/bayesian-networks/index.html\">Bayesian Networks</a>
-        <a href=\"/ai/cnns/index.html\">CNNs</a>
-      </div>
+  </div>
+  <div class=\"nav-group\">
+    <a href=\"/algorithms/index.html\">Algorithms</a>
+    <div class=\"nav-sub\">
+      <a href=\"/algorithms/spanning-trees/index.html\">Spanning Trees</a>
+      <a href=\"/algorithms/divide-and-conquer/index.html\">Divide &amp; Conquer</a>
+      <a href=\"/algorithms/dynamic-programming/index.html\">Dynamic Programming</a>
+      <a href=\"/algorithms/greedy-scheduling/index.html\">Greedy Scheduling</a>
+      <a href=\"/algorithms/linear-programming/index.html\">Linear Programming</a>
+      <a href=\"/algorithms/simplex-algorithm/index.html\">Simplex Algorithm</a>
+      <a href=\"/algorithms/integer-linear-programming/index.html\">Integer LP</a>
+      <a href=\"/algorithms/flow-networks/index.html\">Flow Networks</a>
+      <a href=\"/algorithms/randomized-algorithms/index.html\">Randomized Algorithms</a>
+      <a href=\"/algorithms/approximation-algorithms/index.html\">Approximation Algorithms</a>
     </div>
-    <a href=\"/linear-algebra/index.html\">Linear Algebra</a>
-    <div class=\"dropdown\">
-      <a href=\"/statistics/index.html\">Statistics ▾</a>
-      <div class=\"dropdown-menu\">
-        <a href=\"/statistics/glm/index.html\">GLMs</a>
-      </div>
+  </div>
+  <a href=\"/concerts/index.html\">Concerts</a>
+  <a href=\"/examples/index.html\">Examples</a>
+  <a href=\"/linear-algebra/index.html\">Linear Algebra</a>
+  <div class=\"nav-group\">
+    <a href=\"/statistics/index.html\">Statistics</a>
+    <div class=\"nav-sub\">
+      <a href=\"/statistics/glm/index.html\">GLMs</a>
     </div>
-    <a href=\"/examples/index.html\">Examples</a>
-  </nav>
-</header>
+  </div>
+</nav>
 <script>
 (function () {
   var path = window.location.pathname;
