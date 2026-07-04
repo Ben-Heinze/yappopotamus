@@ -4,3 +4,7 @@
 * Regression
 
 #+INCLUDE: "linear-regression.org" :minlevel 2
+
+* Generalized Linear Models
+
+See [[file:glm/index.org][GLMs]].

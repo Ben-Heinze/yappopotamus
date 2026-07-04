@@ -27,7 +27,21 @@ MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\
   <a class=\"site-title\" href=\"/index.html\">yappopotamus</a>
   <nav>
     <a href=\"/index.html\">Home</a>
-    <a href=\"/algorithms/index.html\">Algorithms</a>
+    <div class=\"dropdown\">
+      <a href=\"/algorithms/index.html\">Algorithms ▾</a>
+      <div class=\"dropdown-menu\">
+        <a href=\"/algorithms/spanning-trees/index.html\">Spanning Trees</a>
+        <a href=\"/algorithms/divide-and-conquer/index.html\">Divide &amp; Conquer</a>
+        <a href=\"/algorithms/dynamic-programming/index.html\">Dynamic Programming</a>
+        <a href=\"/algorithms/greedy-scheduling/index.html\">Greedy Scheduling</a>
+        <a href=\"/algorithms/linear-programming/index.html\">Linear Programming</a>
+        <a href=\"/algorithms/simplex-algorithm/index.html\">Simplex Algorithm</a>
+        <a href=\"/algorithms/integer-linear-programming/index.html\">Integer LP</a>
+        <a href=\"/algorithms/flow-networks/index.html\">Flow Networks</a>
+        <a href=\"/algorithms/randomized-algorithms/index.html\">Randomized Algorithms</a>
+        <a href=\"/algorithms/approximation-algorithms/index.html\">Approximation Algorithms</a>
+      </div>
+    </div>
     <div class=\"dropdown\">
       <a href=\"/ai/index.html\">AI ▾</a>
       <div class=\"dropdown-menu\">
@@ -36,7 +50,12 @@ MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\
       </div>
     </div>
     <a href=\"/linear-algebra/index.html\">Linear Algebra</a>
-    <a href=\"/statistics/index.html\">Statistics</a>
+    <div class=\"dropdown\">
+      <a href=\"/statistics/index.html\">Statistics ▾</a>
+      <div class=\"dropdown-menu\">
+        <a href=\"/statistics/glm/index.html\">GLMs</a>
+      </div>
+    </div>
     <a href=\"/examples/index.html\">Examples</a>
   </nav>
 </header>

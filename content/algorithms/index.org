@@ -4,3 +4,16 @@
 * Recursion
 
 #+INCLUDE: "fibonacci.org" :minlevel 2
+
+* Topics
+
+- [[file:spanning-trees/index.org][Spanning Trees]] — MST, Kruskal's algorithm, Prim's algorithm, Cut Property
+- [[file:divide-and-conquer/index.org][Divide and Conquer]] — Closest Pair of Points
+- [[file:dynamic-programming/index.org][Dynamic Programming]] — Optimal substructure, Longest Path in a DAG, Vertex Cover on Trees, Edit Distance
+- [[file:greedy-scheduling/index.org][Greedy Scheduling]] — Interval Scheduling, Room Minimization, Earliest Deadline First
+- [[file:linear-programming/index.org][Linear Programming]] — LP formulation, vertex optima, worked examples
+- [[file:simplex-algorithm/index.org][Simplex Algorithm]] — walking the feasible region, running time
+- [[file:integer-linear-programming/index.org][Integer Linear Programming]] — ILP, Branch and Bound, Total Unimodularity
+- [[file:flow-networks/index.org][Flow Networks]] — Ford-Fulkerson, Min-Cut Max-Flow, Work Scheduling
+- [[file:randomized-algorithms/index.org][Randomized Algorithms]] — Max 3-Coloring, Max 3-SAT, Randomized Rounding
+- [[file:approximation-algorithms/index.org][Approximation Algorithms]] — Vertex Cover, Set Cover, Knapsack FPTAS, ILP rounding

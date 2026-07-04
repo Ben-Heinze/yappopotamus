@@ -42,3 +42,9 @@ print(f"P(positive | disease):          {sensitivity:.2%}")
 print(f"P(positive | no disease):       {false_pos_rate:.2%}")
 print(f"Posterior P(disease | positive): {posterior:.2%}")
 #+end_src
+
+#+RESULTS: bayes-rule
+: Prior P(disease):               1.00%
+: P(positive | disease):          99.00%
+: P(positive | no disease):       5.00%
+: Posterior P(disease | positive): 16.67%
