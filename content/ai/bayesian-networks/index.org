@@ -8,3 +8,7 @@ Add snippets to =content/ai/bayesian-networks/= and pull them in here with:
 #+begin_example
 ,#+INCLUDE: "snippet-name.org" :minlevel 2
 #+end_example
+
+* Bayes' Rule
+
+#+INCLUDE: "bayes_rule.org" :minlevel 2

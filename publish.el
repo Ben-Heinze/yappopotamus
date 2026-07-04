@@ -14,7 +14,11 @@
 (setq org-confirm-babel-evaluate nil)
 
 (defvar wiki-html-head
-  "<link rel=\"stylesheet\" href=\"/style.css\" />")
+  "<link rel=\"stylesheet\" href=\"/style.css\" />
+<script>
+MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\]']] } };
+</script>
+<script src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js\"></script>")
 
 ;; Tabs are root-relative so they resolve correctly from any subdirectory.
 ;; The inline script adds an .active class to whichever tab matches the URL.

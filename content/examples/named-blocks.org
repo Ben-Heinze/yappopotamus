@@ -7,7 +7,7 @@ Give any block a name and it becomes reusable. The name goes on the line
 directly above the block.
 
 #+NAME: compute-stats
-#+begin_src python :var nums='[2,4,6,8,10]' :results output
+#+begin_src python :var nums='(2 4 6 8 10) :results output
 total = sum(nums)
 mean  = total / len(nums)
 print(f"Sum:  {total}")
@@ -23,7 +23,7 @@ The result is inserted inline at the call site.
 
 Run with different data:
 
-#+CALL: compute-stats(nums=[1,3,5,7,9,11])
+#+CALL: compute-stats(nums='(1 3 5 7 9 11))
 
 * Using #+NAME on a Table
 
