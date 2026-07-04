@@ -16,13 +16,26 @@
         emacs = pkgs.emacsPackages.emacsWithPackages (epkgs: with epkgs; [
           htmlize  # syntax highlighting in exported HTML code blocks
         ]);
+        python = pkgs.python3.withPackages (ps: with ps; [
+          pandas
+          numpy
+          matplotlib
+          scipy
+        ]);
+        R = pkgs.rWrapper.override {
+          packages = with pkgs.rPackages; [
+            ggplot2
+            dplyr
+            tidyr
+          ];
+        };
       in
       {
         devShells.default = pkgs.mkShell {
           packages = [
             emacs
-            pkgs.python3
-            pkgs.R
+            python
+            R
             pkgs.just
             pkgs.xdg-utils
           ];

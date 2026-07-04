@@ -70,6 +70,50 @@ nav a.active {
   margin-bottom: -2px;
 }
 
+/* ── Dropdown nav ── */
+
+.dropdown {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+  background: #fafafa;
+  border: 1px solid #0645ad;
+  min-width: 100%;
+  white-space: nowrap;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu a {
+  display: block;
+  border-radius: 0;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 0;
+  padding: 0.4rem 1.1rem;
+}
+
+.dropdown-menu a:last-child {
+  border-bottom: none;
+}
+
+.dropdown-menu a.active {
+  background: #e8eef8;
+  border-color: transparent;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
 /* ── Headings ── */
 
 h1, h2, h3, h4 {

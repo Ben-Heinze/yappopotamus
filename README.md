@@ -138,7 +138,7 @@ yappopotamus/
 
 ## Why Emacs?
 
-Org mode is not just a file format — it is an Emacs subsystem. The `org-publish` function that converts `.org` files to HTML lives inside Emacs and can only be called from within an Emacs process. The `--batch` flag runs Emacs headlessly (no window, no UI), so the build command works in any terminal without opening an editor.
+Org mode is not ust a file format — it is an Emacs subsystem. The `org-publish` function that converts `.org` files to HTML lives inside Emacs and can only be called from within an Emacs process. The `--batch` flag runs Emacs headlessly (no window, no UI), so the build command works in any terminal without opening an editor.
 
 You do not need to use Emacs as your day-to-day editor. You can write `.org` files in any text editor. However, Emacs gives you significant advantages when working with Org files interactively:
 
@@ -267,7 +267,7 @@ This repo has Python, R, shell, and Emacs Lisp enabled in `publish.el`. To add a
    (R           . t)
    (shell       . t)
    (emacs-lisp  . t)
-   (julia       . t)   ; add new languages here
+   (ulia       . t)   ; add new languages here
    (sql         . t)))
 ```
 

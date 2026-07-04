@@ -24,7 +24,13 @@
   <nav>
     <a href=\"/index.html\">Home</a>
     <a href=\"/algorithms/index.html\">Algorithms</a>
-    <a href=\"/ai/index.html\">AI</a>
+    <div class=\"dropdown\">
+      <a href=\"/ai/index.html\">AI ▾</a>
+      <div class=\"dropdown-menu\">
+        <a href=\"/ai/bayesian-networks/index.html\">Bayesian Networks</a>
+        <a href=\"/ai/cnns/index.html\">CNNs</a>
+      </div>
+    </div>
     <a href=\"/linear-algebra/index.html\">Linear Algebra</a>
     <a href=\"/statistics/index.html\">Statistics</a>
     <a href=\"/examples/index.html\">Examples</a>
