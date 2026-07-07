@@ -12,6 +12,8 @@
    (emacs-lisp  . t)))
 
 (setq org-confirm-babel-evaluate nil)
+;; Use stored #+RESULTS: during export — run blocks interactively in Emacs first
+(setq org-export-babel-evaluate nil)
 
 (defvar wiki-html-head
   "<link rel=\"stylesheet\" href=\"/style.css?v=6\" />
@@ -54,7 +56,10 @@ MathJax = { tex: { inlineMath: [['\\\\(','\\\\)']], displayMath: [['\\\\[','\\\\
   <div class=\"nav-group\">
     <a href=\"/statistics/index.html\">Statistics</a>
     <div class=\"nav-sub\">
-      <a href=\"/statistics/glm/index.html\">GLMs</a>
+        <a href=\"/statistics/glm/index.html\">GLMs</a>
+      <a href=\"/statistics/binary_logistic.html\">Binary Logistic Regression</a>
+      <a href=\"/statistics/binomial_glm.html\">Binomial GLM</a>
+      <a href=\"/statistics/poisson_glm.html\">Poisson GLM</a>
     </div>
   </div>
 </nav>

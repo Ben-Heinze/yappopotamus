@@ -185,10 +185,10 @@ code {
 
 pre code { background: none; padding: 0; }
 
-/* Babel result blocks */
-.results pre {
+/* Babel result / example blocks */
+pre.example {
+  background: #eef8ee;
   border-left-color: #2a7a2a;
-  background: #f4fff4;
 }
 
 /* ── Images ── */

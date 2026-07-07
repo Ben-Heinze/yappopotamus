@@ -15,6 +15,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
         emacs = pkgs.emacsPackages.emacsWithPackages (epkgs: with epkgs; [
           htmlize  # syntax highlighting in exported HTML code blocks
+          ess      # R session support for org-babel :session blocks
         ]);
         python = pkgs.python3.withPackages (ps: with ps; [
           pandas
@@ -24,9 +25,12 @@
         ]);
         R = pkgs.rWrapper.override {
           packages = with pkgs.rPackages; [
-            ggplot2
-            dplyr
-            tidyr
+            tidyverse
+            Sleuth3
+            arm       # binnedplot, bayesglm, ilogit
+            dispmod   # orobanche dataset
+            effects   # allEffects plots
+            car       # crPlots, some
           ];
         };
       in
