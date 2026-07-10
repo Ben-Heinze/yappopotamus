@@ -1,0 +1,6 @@
+#+TITLE: Gibbs Sampling
+#+OPTIONS: toc:nil num:nil
+
+* Gibbs Sampling
+
+add here

@@ -1,0 +1,6 @@
+public/
+.direnv/
+.server.pid
+.claude/
+CLAUDE.md
+**/Rplots.pdf
